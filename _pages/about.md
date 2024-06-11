@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p><a href='https://www.uni-bayreuth.de/en'>University of Bayreuth</a></p>
     <p><a href='https://www.math.uni-bayreuth.de//en'>Department of Mathematics</a></p>
-    <p><a href='mailto:christopher.straub@uni-bayreuth.de'>christopher.straub@uni-bayreuth.de</a></p>
-
+    
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
