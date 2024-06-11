@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: CS-2.jpg
+  image: CS-3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='https://www.uni-bayreuth.de/en'>University of Bayreuth</a></p>
