@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications (incl. preprints) in reverse chronological order and published theses. Additional bibliographic data can be found on [Google Scholar]([https://www.uni-bayreuth.de/en/press-releases/ai-in-astrophysics](https://scholar.google.de/citations?hl=en&user=Q30OgVkAAAAJ), preprint versions of all articles are available on [arXiv](https://arxiv.org/a/straub_c_1.html).
+description: Publications (incl. preprints) in reverse chronological order and published theses. Additional bibliographic data can be found on [Google Scholar](https://scholar.google.de/citations?hl=en&user=Q30OgVkAAAAJ), preprint versions of all articles are available on [arXiv](https://arxiv.org/a/straub_c_1.html).
 nav: true
 nav_order: 1
 ---
