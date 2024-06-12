@@ -19,13 +19,13 @@
     url: https://www.linkedin.com/in/sebastian-wolfschmidt
 
 "körner":
- - firstname: ["Jacob", "J."]
-  url: https://de.wikipedia.org/wiki/Jacob_K%C3%B6rner
+  - firstname: ["Jacob", "J."]
+    url: https://de.wikipedia.org/wiki/Jacob_K%C3%B6rner
 
 "lebeda":
- - firstname: ["Timo", "T."]
-  url: https://scholar.google.de/citations?user=Ef0-1ScAAAAJ
+  - firstname: ["Timo", "T."]
+    url: https://scholar.google.de/citations?user=Ef0-1ScAAAAJ
 
 "pötzl":
- - firstname: ["Bastian", "B."]
-  url: https://num.math.uni-bayreuth.de/en/team/emer-former/bastian-poetzl
+  - firstname: ["Bastian", "B."]
+    url: https://num.math.uni-bayreuth.de/en/team/emer-former/bastian-poetzl
