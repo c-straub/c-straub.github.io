@@ -17,17 +17,3 @@ Publications (incl. preprints) in reverse chronological order and published thes
 {% bibliography %}
 
 </div>
-
-
-<!-- <div class="publications">
-
-<a id="journal"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;"><b>Articles</b></h3></a>
-<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
-{% bibliography -f papers %}
-
-
-<a id="theses"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;"><b>Theses</b></h3></a>
-<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
-{% bibliography -f theses %}
-
-</div> -->
