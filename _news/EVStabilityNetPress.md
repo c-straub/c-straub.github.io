@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EVStabilityNet in the press :newspaper:
+title: EVStabilityNet in the press
 date: 2024-02-05
 inline: false
 related_posts: false
