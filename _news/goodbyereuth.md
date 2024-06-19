@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Good Byereuth
 date: 2024-08-31
-inline: false
+inline: true
 related_posts: false
 ---
 
