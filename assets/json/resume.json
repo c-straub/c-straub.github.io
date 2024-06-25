@@ -71,28 +71,28 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2022-05-31",
+      "date": "2022",
       "issuer": "Stanford University",
       "url": "https://www.coursera.org/account/accomplishments/certificate/WTLK3G947EG3",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Deep Learning Specialization",
-      "date": "2022-10-06",
+      "date": "2022",
       "issuer": "DeepLearning.AI",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HFXAALFDRZDB",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Certificate for Teaching in Higher Education of the Bavarian Universities",
-      "date": "2022-10-22",
+      "date": "2022",
       "issuer": "Center for teaching and learning, University of Bayreuth",
       "url": "https://profilehreplus.de/en/certificate/certificate",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Natural Language Processing Specialization",
-      "date": "2024-04-11",
+      "date": "2024",
       "issuer": "DeepLearning.AI",
       "url": "https://coursera.org/verify/specialization/HFKPSXKH7CZ8",
       "icon": "fa-solid fa-hashtag"
@@ -101,8 +101,8 @@
   "awards": [
     {
       "title": "Preis der Goldenen Kreide",
-      "date": "2019-07-11",
-      "awarder": "Faculty of Mathematics, Physics & Computer Science",
+      "date": "2019",
+      "awarder": "Faculty of Mathematics, Physics & Computer Science, University of Bayreuth",
       "summary": "Teaching award based on students' feedback.",
       "url": "https://www.uni-bayreuth.de/preise-gute-lehre#8efe75ca"
     }
@@ -119,18 +119,31 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "profiles": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Christopher-Straub-2",
+      "icon": "ai ai-researchgate"
+    },
+    {
+      "name": "ORCID",
+      "url": "https://orcid.org/0000-0003-2194-0256",
+      "icon": "ai ai-orcid"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Q30OgVkAAAAJ",
+      "icon": "ai ai-google-scholar"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/a/straub_c_1.html",
+      "icon": "ai ai-arxiv"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/straub-christopher",
+      "icon": "ai ai-linkedin"
     }
   ]
 }
