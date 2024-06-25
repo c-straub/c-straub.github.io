@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-After almost 10 wonderful years, I will be leaving the University of Bayreuth in August 2024.
+After 10 wonderful years, I will be leaving the University of Bayreuth in August 2024.
