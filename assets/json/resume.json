@@ -29,40 +29,43 @@
     {
       "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
-      "location": "Bayreuth, Germany",
-      "supervisor": "Prof. Dr. Gerhard Rein and Prof. Dr. Mahir Hadžić",
-      "thesis": "Pulsating Galaxies",
-      "thesisurl": "https://doi.org/10.15495/EPub_UBT_00007639",
       "studyType": "Doctor of Science in Mathematics",
       "startDate": "2019-11-08",
-      "endDate": "2024-03-13"
+      "endDate": "2024-03-13",
+      "courses": [
+	"Grade: summa cum laude ('excellent').",
+        "Thesis: Pulsating Galaxies.",
+	"Advisors: Gerhard Rein (Bayreuth) and Mahir Hadžić (UCL). Additional Reviewer: Yan Guo (Brown University)."
+      ]
     },
     {
       "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
-      "location": "Bayreuth, Germany",
       "thesis": "Stability of the King model - a coercivity-based approach",
       "thesisurl": "https://doi.org/10.15495/EPub_UBT_00005033",
       "studyType": "Master of Science in Mathematics",
       "startDate": "2017-10-01",
-      "endDate": "2019-11-07"
+      "endDate": "2019-11-07",
+      "courses": [
+	"Overall grade: 1,0 ('excellent'). Achieved best possible grade (1,0) in every exam.",
+	"Minor subject: Computer Science",
+	"Focus areas: Analysis and numerics for PDEs and artificial intelligence.",
+        "Thesis: Stability of the King model - a coercivity-based approach."
+      ]
     },
     {
       "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
-      "location": "Bayreuth, Germany",
       "thesis": "Haar-Wavelets",
       "studyType": "Bachelor of Science in Mathematics",
       "startDate": "2014-10-01",
-      "endDate": "2017-09-20"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Preis der Goldenen Kreide",
-      "date": "2019-07-11",
-      "awarder": "Faculty of Mathematics, Physics & Computer Science",
-      "summary": "Teaching award based on students' feedback."
+      "endDate": "2017-09-20",
+      "courses": [
+	"Overall grade: 1,0 ('excellent').",
+	"Minor subject: Computer Science",
+	"Focus areas: Analysis, differential equations, and basics of computer science.",
+        "Thesis: Haar-Wavelets."
+      ]
     }
   ],
   "certificates": [
@@ -81,9 +84,9 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Teaching in Higher Education",
+      "name": "Certificate for Teaching in Higher Education of the Bavarian Universities",
       "date": "2022-10-22",
-      "issuer": "Center for teaching and learning Bayreuth",
+      "issuer": "Center for teaching and learning, University of Bayreuth",
       "url": "https://profilehreplus.de/en/certificate/certificate",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -93,6 +96,14 @@
       "issuer": "DeepLearning.AI",
       "url": "https://coursera.org/verify/specialization/HFKPSXKH7CZ8",
       "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Preis der Goldenen Kreide",
+      "date": "2019-07-11",
+      "awarder": "Faculty of Mathematics, Physics & Computer Science",
+      "summary": "Teaching award based on students' feedback."
     }
   ],
   "skills": [
