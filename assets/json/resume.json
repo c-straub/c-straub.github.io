@@ -16,7 +16,7 @@
       "url": "https://www.math.uni-bayreuth.de/en/",
       "location": "Bayreuth, Germany",
       "startDate": "2018-04-01",
-      "endDate": "2024-08-31",
+      "endDate": "today",
       "summary": "Research & teaching at the Chair of Nonlinear Analysis and Mathematical Physics",
       "highlights": [
         "Research on partial differential equations arising in galactic dynamics using mathematical and numerical methods.",
@@ -120,6 +120,11 @@
     }
   ],
   "profiles": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/straub-christopher",
+      "icon": "fa-brands fa-linkedin"
+    },
     {
       "name": "ResearchGate",
       "url": "https://www.researchgate.net/profile/Christopher-Straub-2",
