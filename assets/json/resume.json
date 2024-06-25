@@ -139,11 +139,6 @@
       "name": "arXiv",
       "url": "https://arxiv.org/a/straub_c_1.html",
       "icon": "ai ai-arxiv"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/straub-christopher",
-      "icon": "fa-brands fa-linkedin"
     }
   ]
 }
