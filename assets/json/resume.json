@@ -30,7 +30,7 @@
       "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
       "location": "Bayreuth, Germany",
-      "supervisors": "Prof. Dr. Gerhard Rein and Prof. Dr. Mahir Hadžić",
+      "supervisor": "Prof. Dr. Gerhard Rein and Prof. Dr. Mahir Hadžić",
       "thesis": "Pulsating Galaxies",
       "thesisurl": "https://doi.org/10.15495/EPub_UBT_00007639",
       "studyType": "Doctor of Science in Mathematics",
@@ -93,7 +93,7 @@
       "issuer": "DeepLearning.AI",
       "url": "https://coursera.org/verify/specialization/HFKPSXKH7CZ8",
       "icon": "fa-solid fa-hashtag"
-    },
+    }
   ],
   "skills": [
     {
