@@ -48,7 +48,7 @@
       "endDate": "2019-11-07",
       "courses": [
 	"Overall grade: 1,0 ('excellent'). Achieved best possible grade (1,0) in every exam.",
-	"Minor subject: Computer Science",
+	"Minor subject: Computer Science.",
 	"Focus areas: Analysis and numerics for PDEs and artificial intelligence.",
         "Thesis: Stability of the King model - a coercivity-based approach."
       ]
@@ -62,7 +62,7 @@
       "endDate": "2017-09-20",
       "courses": [
 	"Overall grade: 1,0 ('excellent').",
-	"Minor subject: Computer Science",
+	"Minor subject: Computer Science.",
 	"Focus areas: Analysis, differential equations, and basics of computer science.",
         "Thesis: Haar-Wavelets."
       ]
