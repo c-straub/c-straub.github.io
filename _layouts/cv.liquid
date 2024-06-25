@@ -107,6 +107,8 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'others' %}
+                  {% include resume/basics.liquid %}
                 {% else %}
 
               {% endcase %}
