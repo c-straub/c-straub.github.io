@@ -33,3 +33,25 @@
 "weber":
   - firstname: ["Jörg", "J."]
     url: https://joerg-weber.github.io
+
+"brundl":
+  - firstname: ["Patrick", "P."]
+    url: https://www.faps.fau.de/person/patrick-bruendl/
+
+"scheffler":
+  - firstname: ["Benedikt", "B."]
+    url: https://www.faps.fau.de/person/benedikt-scheffler/
+
+"stoidner":
+  - firstname: ["Micha", "M."]
+    url: https://www.linkedin.com/in/micha-stoidner-699b1915a
+
+"nguyen":
+  - firstname: ["Huong Giang", "H. G."]
+    url: https://www.faps.fau.de/person/huong-nguyen/
+
+"franke":
+  - firstname: ["Jörg", "J."]
+    url: https://www.faps.fau.de/person/joerg-franke/
+
+
