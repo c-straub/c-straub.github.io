@@ -17,4 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I recently completed my PhD in Applied Mathematics and am currently working as a researcher at the University of Bayreuth. My research focuses on the mathematical analysis of differential equations from astrophysics and their simulation using high-performance computing in C++. Additionally, I possess expertise in AI, including Deep Learning and NLP, which I apply in my astromathematical research and in cross-disciplinary research projects. 
+I am a researcher at the Department of Mathematics at the University of Bayreuth. My main research interests currently include
+<ul>
+  <li>applications of physics-informed neural networks</li>
+  <li>applications of geometric deep learning for automating control cabinet assembly.</li>
+</ul>
+My background is in applied mathematics, where I obtained my PhD in 2024 under the supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz). My doctoral research was focused on the analysis of partial differential equations arising in astromathematics. In particular, I worked on
+<ul>
+  <li>proving the existence of linearly damped and pulsating galaxies,</li>
+  <li>studying the stability of star clusters in general relativity,</li>
+  <li>analyzing (the spectrum of) differential operators,</li>
+  <li>simulating non-linear PDE systems numerically via high-performance computing in C++.</li>
+</ul>
