@@ -174,7 +174,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  News:
     defaults:
       layout: post
     output: false
