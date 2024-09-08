@@ -10,16 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='https://www.iisb.fraunhofer.de'>Fraunhofer IISB</a></p>
-    <p><a href='https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html'>AI-augmented simulation</a></p>
+    <p><a href='https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html'>AI-augmented Simulation</a></p>
     
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher at the [AI-augmented simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at the [Fraunhofer Institute for Integrated Systems and Device Technology IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). My main research interests include
+I am a researcher at the [AI-augmented Simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at the [Fraunhofer Institute for Integrated Systems and Device Technology IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). My research interests include
 <ul>
-  <li>applications of physics-informed neural networks,</li>
+  <li>physics-informed neural networks and their applications,</li>
   <li>applications of geometric deep learning for automating control cabinet assembly.</li>
 </ul>
 I have a background in mathematics, where I obtained my PhD in 2024 under the joint supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) (University of Bayreuth) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz) (University College London). My doctoral research was focused on the analysis of partial differential equations arising in astromathematics. In particular, I worked on
