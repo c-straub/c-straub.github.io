@@ -4,19 +4,27 @@
     "title": "Dr. rer. nat.",
     "image": "",
     "born": "March 1996",
-    "email": "christopher.straub@uni-bayreuth.de",
-    "phone": "+49 921 55 3284",
-    "address": "Universität Bayreuth, Universitätsstr. 30, D-95447 Bayreuth, Germany",
-    "office": "Building NW II, Room 3.2.01.536"
+    "email": "christopher.straub@iisb.fraunhofer.de",
+    "phone": "+49 9131 761-401",
+    "address": "Fraunhofer IISB, Schottkystr. 10, D-91058 Erlangen, Germany"
   },
   "work": [
+    {
+      "name": "AI-augmented Simulation, Fraunhofer IISB",
+      "position": "Research associate",
+      "url": "https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html",
+      "location": "Erlangen, Germany",
+      "startDate": "2024-09-01",
+      "endDate": "today",
+      "summary": "Research on physics-informed neural networks and their applications"
+    },
     {
       "name": "Department of Mathematics, University of Bayreuth",
       "position": "Research assistant",
       "url": "https://www.math.uni-bayreuth.de/en/",
       "location": "Bayreuth, Germany",
       "startDate": "2018-04-01",
-      "endDate": "today",
+      "endDate": "2024-08-31",
       "summary": "Research & teaching at the Chair of Nonlinear Analysis and Mathematical Physics",
       "highlights": [
         "Research on partial differential equations arising in galactic dynamics using mathematical and numerical methods.",
