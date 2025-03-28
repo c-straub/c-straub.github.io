@@ -54,4 +54,14 @@
   - firstname: ["Jörg", "J."]
     url: https://www.faps.fau.de/person/joerg-franke/
 
+"rosskopf":
+  - firstname: ["Andreas", "A."]
+    url: https://www.linkedin.com/in/andreas-rosskopf-6908541ba/
 
+"brendel":
+  - firstname: ["Philipp", "P."]
+    url: https://www.linkedin.com/in/philipp-brendel/
+
+"medvedev":
+  - firstname: ["Vlad", "V."]
+    url: https://www.linkedin.com/in/vlad-medvedev-10193018a/
