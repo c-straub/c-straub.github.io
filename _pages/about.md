@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher in the [AI-augmented Simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at [Fraunhofer Institute for Integrated Systems and Device Technology IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). My research focuses on scientific machine learning, in particular,
+I am a postdoctoral researcher in the [AI-augmented Simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at [Fraunhofer Institute for Integrated Systems and Device Technology IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). My research focuses on scientific machine learning, in particular,
 <ul>
   <li>physics-informed machine learning and its industrial applications,</li>
   <li>methodological improvements of physics-informed neural networks.</li>
