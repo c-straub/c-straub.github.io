@@ -22,7 +22,7 @@ I am a postdoctoral researcher in the [AI-augmented Simulation group](https://ww
   <li>physics-informed machine learning and its industrial applications,</li>
   <li>methodological improvements of physics-informed neural networks.</li>
 </ul>
-I have a background in mathematics, where I obtained my PhD in 2024 under the joint supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) (University of Bayreuth) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz) (University College London). My doctoral research was focused on the analysis of partial differential equations from galactic dynamics using mathematical and numerical methods. Concretely, I worked on
+I have a background in mathematics, where I obtained my PhD in March 2024 under the joint supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) (University of Bayreuth) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz) (University College London). My doctoral research was focused on the analysis of partial differential equations from galactic dynamics using mathematical and numerical methods. Concretely, I worked on
 <ul>
   <li>proving the existence of damped and pulsating galaxies,</li>
   <li>studying the stability of star clusters in general relativity,</li>
