@@ -24,4 +24,4 @@ I am a researcher in the [AI-augmented Simulation group](https://www.iisb.fraunh
 </ul>
 My work on physics-informed neural networks and operators spans diverse industry-relevant applications, including semiconductor process simulations, lithography, and plastic deformation. 
 
-I have a background in mathematics, where I obtained my PhD in March 2024 under the joint supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) (University of Bayreuth) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz) (University College London). My doctoral research was focused on the analysis of partial differential equations from galactic dynamics using mathematical and numerical methods. 
+I have a background in mathematics, where I obtained my PhD in 2024 under the joint supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/) (University of Bayreuth) and [Mahir Hadžić](https://www.homepages.ucl.ac.uk/~ucahadz) (University College London). My doctoral research was focused on the analysis of partial differential equations from galactic dynamics using mathematical and numerical methods. 
