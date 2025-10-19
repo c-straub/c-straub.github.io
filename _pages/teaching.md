@@ -5,7 +5,7 @@ title: Teaching
 description:
 nav: true
 nav_order: 2
-display_categories: [certificates, past]
+display_categories: [Certificates, Supervision, Courses and seminars]
 ---
 
 <div class="projects">
