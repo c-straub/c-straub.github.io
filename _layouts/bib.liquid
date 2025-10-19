@@ -199,8 +199,8 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Links/Buttons -->
-    <span class="links">
+ <!-- Links/Buttons -->
+    <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awareded{% endif -%}
@@ -213,7 +213,7 @@
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">BibTeX</a>
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -221,12 +221,6 @@
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Link</a>
         {% endif %}
-      {% endif %}
-      {% if entry.mathscinet %}
-        <a href="https://mathscinet.ams.org/mathscinet/article?mr={{ entry.mathscinet }}" class="btn btn-sm z-depth-0" role="button">MR</a>
-      {% endif %}
-      {% if entry.zbmath %}
-        <a href="https://zbmath.org/{{ entry.zbmath }}" class="btn btn-sm z-depth-0" role="button">zbMATH</a>
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
@@ -270,18 +264,18 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-    </span>
+    </div>
     {% if site.enable_publication_badges %}
-      {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or entry.eprint or entry.pmid or entry.isbn %}
+      {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
       {% assign entry_has_dimensions_badge = entry.dimensions or entry.doi or entry.pmid %}
       {% assign entry_has_google_scholar_badge = entry.google_scholar_id %}
       {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge %}
-        <span class="badges">
+        <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
               data-hide-no-mentions="true"
-              data-hide-less-than="1"
+              data-hide-less-than="15"
               data-badge-type="2"
               data-badge-popover="right"
               {% if entry.eprint %}
@@ -307,7 +301,7 @@
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="false"
+              data-hide-zero-citations="true"
               data-style="small_rectangle"
               data-legend="hover-right"
               style="margin-bottom: 3px;"
@@ -325,7 +319,7 @@
               >
             </a>
           {% endif %}
-        </span>
+        </div>
       {% endif %}
     {% endif %}
 
