@@ -65,3 +65,19 @@
 "medvedev":
   - firstname: ["Vlad", "V."]
     url: https://www.linkedin.com/in/vlad-medvedev-10193018a/
+
+"tenbrinck":
+  - firstname: ["Daniel", "D."]
+    url: https://www.datascience.nat.fau.eu/research/researchers/daniel-tenbrinck/
+
+"pixius":
+  - firstname: ["Christophe", "C."]
+    url: https://www.linkedin.com/in/christophe-pixius/
+
+"klonnek":
+  - firstname: ["Jessica", "J."]
+    url: https://www.linkedin.com/in/jessica-klonnek/
+
+"mundinar":
+  - firstname: ["Simon", "S."]
+    url: https://www.linkedin.com/in/simon-mundinar-84a553335/
