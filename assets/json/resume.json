@@ -10,25 +10,46 @@
   },
   "work": [
     {
-      "name": "AI-augmented Simulation, Fraunhofer IISB",
-      "position": "Research associate",
+      "name": "Department Modeling and Artificial Intelligence, Fraunhofer IISB",
+      "position": "Senior Scientist",
+      "url": "https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html",
+      "location": "Erlangen, Germany",
+      "startDate": "2026-01-01",
+      "endDate": "today",
+      "summary": "Lead scientist of the AI-augmented Simulation group.",
+      "highlights": [
+        "Leading the research activities on Scientific Machine Learning.",
+        "Acquiring and managing research projects.",
+        "Supervising and mentoring research assistants and students."
+      ]
+    },
+    {
+      "name": "Department Modeling and Artificial Intelligence, Fraunhofer IISB",
+      "position": "Research Associate",
       "url": "https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html",
       "location": "Erlangen, Germany",
       "startDate": "2024-09-01",
-      "endDate": "today",
-      "summary": "Research on physics-informed machine learning and its industrial applications"
+      "endDate": "2025-12-31",
+      "summary": "Research at the AI-augmented Simulation group.",
+      "highlights": [
+        "Research on Physics-Informed Machine Learning and its industrial application.",
+        "Development of Physics-Informed Neural Operators for different semiconductor simulations as well as for a production environment at industrial client sites.",
+        "Presentation of research results at various international conferences.", 
+        "Supervision of working students and co-supervision of student theses."
+      ]
     },
     {
       "name": "Department of Mathematics, University of Bayreuth",
-      "position": "Research assistant",
+      "position": "Research Assistant",
       "url": "https://www.math.uni-bayreuth.de/en/",
       "location": "Bayreuth, Germany",
       "startDate": "2018-04-01",
       "endDate": "2024-08-31",
-      "summary": "Research & teaching at the Chair of Nonlinear Analysis and Mathematical Physics",
+      "summary": "Research & teaching at the Chair of Nonlinear Analysis and Mathematical Physics.",
       "highlights": [
         "Research on partial differential equations arising in galactic dynamics using mathematical and numerical methods.",
-        "Started the position part-time one semester after my BSc as part of a Fast-Track programme. Full-time position since 11/2020.",
+        "Started the position part-time during my master's studies as part of a Fast-Track programme.",
+        "Authored 10 journal articles.", 
         "Taught 13 mathematics courses."
       ]
     }
