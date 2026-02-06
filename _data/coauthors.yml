@@ -81,3 +81,11 @@
 "mundinar":
   - firstname: ["Simon", "S."]
     url: https://www.linkedin.com/in/simon-mundinar-84a553335/
+
+"lorentz":
+  - firstname: ["Vincent", "V."]
+    url: https://www.electronics.uni-bayreuth.de/de/team
+
+"dietrich":
+  - firstname: ["Felix", "F."]
+    url: https://www.professoren.tum.de/dietrich-felix
