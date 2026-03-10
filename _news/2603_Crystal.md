@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will again be at the <a href="https://www.dgkk.de/en/conference/dkt-2026/home">German Crystal Growth Conference</a> to give talks about physics-informed machine learning for coupled heat transport problems and AI-based wafer defect detection.
+I attended the <a href="https://www.dgkk.de/en/conference/dkt-2026/home">German Crystal Growth Conference</a> again to give talks about our work on physics-informed machine learning for coupled heat transport problems and AI-based wafer defect detection.
