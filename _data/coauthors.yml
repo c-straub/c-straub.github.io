@@ -89,3 +89,11 @@
 "dietrich":
   - firstname: ["Felix", "F."]
     url: https://www.professoren.tum.de/dietrich-felix
+
+"kruse":
+  - firstname: ["Georg", "G."]
+    url: https://www.linkedin.com/in/georg-kruse-71494517a/
+
+"armbruster":
+  - firstname: ["Leon", "L."]
+    url: https://www.linkedin.com/in/leonarmbruster/
