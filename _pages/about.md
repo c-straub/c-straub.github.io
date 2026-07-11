@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 I am a Senior Scientist at the [AI-augmented Simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at [Fraunhofer IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). I am leading the research activities on Scientific Machine Learning, focusing on 
 <ul>
   <li>Physics-Informed Machine Learning and its industrial applications,</li>
-  <li>methodological improvements of Physics-Informed Neural Networks.</li>
+  <li>methodological improvements of Physics-Informed Neural Networks and Neural Operators.</li>
 </ul>
 My work spans diverse industry-relevant applications, including semiconductor process simulations, lithography, battery modelling, and plastic deformation.
 
