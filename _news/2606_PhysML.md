@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the <a href="https://sites.google.com/view/physml2026">PhysML Workshop 2026</a> to give a talk on our work on physics-informed fine-tuning of PDE foundation models.
+I attended the <a href="https://sites.google.com/view/physml2026">PhysML Workshop 2026</a> to give a talk on our work on physics-informed fine-tuning of PDE foundation models.
