@@ -1,5 +1,5 @@
 ---
-title: "Training strategies for physics-informed neural networks applied to semiconductor simulations"
+title: "Advanced Training Strategies for Physics-Informed Neural Networks in Multiphase Semiconductor Simulations"
 description: "Master's thesis | Co-supervision with Daniel Tenbrinck (FAU) | 2025"
 category: Supervision
 number: 2
