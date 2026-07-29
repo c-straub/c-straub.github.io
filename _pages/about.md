@@ -20,8 +20,9 @@ social: true # includes social icons at the bottom of the page
 I am a Senior Scientist at the [AI-augmented Simulation group](https://www.iisb.fraunhofer.de/en/research_areas/simulation/ai-augmented-simulation.html) at [Fraunhofer IISB](https://www.iisb.fraunhofer.de) in Erlangen (Germany). I am leading the research activities on Scientific Machine Learning, focusing on 
 <ul>
   <li>Physics-Informed Machine Learning and its industrial applications,</li>
-  <li>methodological improvements of Physics-Informed Neural Networks and Neural Operators.</li>
+  <li>leveraging AI-based digital twins for industrial optimization, inverse design, and control,</li>
+  <li>methodological improvements of Physics-Informed Neural Networks, Neural Operators, and Foundation Models.</li>
 </ul>
-My work spans diverse industry-relevant applications, including semiconductor process simulations, lithography, battery modelling, and plastic deformation.
+My work spans diverse application domains of Industrial AI, including semiconductor process simulations, lithography, battery modelling, and plastic deformation.
 
-I have a background in mathematics, where I obtained my PhD in March 2024. My doctoral research was focused on the analysis of partial differential equations arising in galactic dynamics using mathematical and numerical methods. 
+I have a background in mathematics, where I obtained my PhD in March 2024. My doctoral research was focused on the analysis of partial differential equations arising in galactic dynamics using mathematical and numerical methods as well as AI. 
